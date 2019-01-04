@@ -1,0 +1,22 @@
+{
+  "name": "webhook-server-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate web hook server for handling votes.",
+  "main": "src/Main.js",
+  "scripts": {
+    "start": "node src/Main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discord-bots-group/boilerplate-webhook-server.git"
+  },
+  "author": "Jacob Rayner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/discord-bots-group/boilerplate-webhook-server/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "homepage": "https://github.com/discord-bots-group/boilerplate-webhook-server#readme"
+}
